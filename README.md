@@ -7,3 +7,5 @@ Il contient :
 - l'encodage TEI
 - l'ODD (en xml et html) qui documente l'encodage
 - le fichier RNG qui contraint l'encodage
+
+[Il n'y a pas de fichier DTD, car celle-ci ne semblait pas pertinente dans l'ensemble du projet]
